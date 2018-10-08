@@ -15,8 +15,8 @@ If you're new to GitHub and just want to download the complete package, hit the 
 3.	Your selected web browser will execute if not Microsoft edge will. You will see three buttons, an input field and column headers for a table.   
 The buttons are Search, GetAllBooks and Clear.
 
-Search button is associated with the input field.  The user will have to write a keyword or a part of the titles of books that are stored in the data source this application is using before pressing the search button.
+Search button is associated with the input field. The user will have to write a keyword or a part of the titles of books that are stored in the data source this application is using before pressing the search button. The Search function will retrieve books from an xml file that can be found in the project under folder App_data.
 
-GetAllBooks button will retrieve all Books from the data source of this application. If user wishes to see the stored data, the button will display a light designed table.
+GetAllBooks button will retrieve all Books from the data source of this application. If user wishes to see the stored data, the button will display a light designed table.GetAllBooksfunction will retrieve all books from an xml file that can be found in the project under folder App_data.
 
 Clear button will clear the rows of the tables after a search or after retrieving all books after using GetAllBooks button. 
